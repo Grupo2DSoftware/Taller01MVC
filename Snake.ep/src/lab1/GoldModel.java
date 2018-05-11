@@ -40,8 +40,6 @@ public class GoldModel extends GameModel {
 			return this.yDelta;
 		}
 	}
-	
-	
 
 	private static final int COIN_START_AMOUNT = 20;
 
@@ -227,4 +225,5 @@ public class GoldModel extends GameModel {
 		return this.score;
 	}
 
+        
 }
